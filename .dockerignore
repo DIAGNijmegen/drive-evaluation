@@ -1,0 +1,5 @@
+test/
+*.tar.gz
+*.ipynb
+__pycache__/
+images/
