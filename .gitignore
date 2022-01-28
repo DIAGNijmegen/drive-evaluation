@@ -6,6 +6,10 @@ __pycache__/
 # exported containers
 *.tar.gz
 
+# Jupyter Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
 # C extensions
 *.so
 
